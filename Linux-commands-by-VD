@@ -1,0 +1,56 @@
+Here are 50 basic Linux commands that are useful for navigating and managing your system:
+
+1. pwd - Print working directory.
+2. ls - List directory contents.
+3. cd - Change directory.
+4. touch - To create a file without any content.
+5. cat - Concatenate and display file content.
+6. cp - Copy files or directories.
+7. mv - Move or rename files or directories.
+8. rm - Remove files or directories.
+9. mkdir - Create a new directory.
+10. rmdir - Remove an empty directory.
+11. echo - Display a line of text or a variable value.
+12. nano - A simple text editor.
+13. vi - A powerful text editor.
+14. chmod - Change file or directory permissions.
+15. chown - Change file or directory owner and group.
+16. find - Search for files in a directory hierarchy.
+17. grep - Search text using patterns.
+18. man - Display the manual for a command.
+19. ps - Display information about running processes.
+20. kill - Terminate processes by PID.
+21. top - Display and update sorted information about processes.
+22. df - Report file system disk space usage.
+23. du - Estimate file space usage.
+24. free - Display memory usage.
+25. uname - Print system information.
+26. uptime - Tell how long the system has been running.
+27. whoami - Display the current user.
+28. sudo - Execute a command as another user, typically the superuser.
+29. apt-get - Package handling utility for Debian-based distributions.
+30. yum - Package manager for RPM-based distributions.
+31. tar - Archive files.
+32. zip - Package and compress (archive) files.
+33. unzip - Extract compressed files.
+34. wget - Retrieve files from the web.
+35. curl - Transfer data from or to a server.
+36. ssh - OpenSSH client (remote login program).
+37. scp - Secure copy (remote file copy program).
+38. rsync - Remote file and directory synchronization.
+39. hostname - Show or set the system's host name.
+40. ping - Send ICMP ECHO_REQUEST to network hosts.
+41. netstat - Print network connections, routing tables, interface statistics, masquerade connections, and multicast
+memberships.
+42. ifconfig - Configure a network interface.
+43. ip - Show/manipulate routing, devices, policy routing, and tunnels.
+44. iptables - Administration tool for IPv4 packet filtering and NAT.
+45. systemctl - Control the systemd system and service manager.
+46. journalctl - Query and display messages from the journal.
+47. crontab - Schedule periodic background jobs.
+48. sudo su - allows us to switch to a different user and execute one or more commands in the shell without logging out from our
+current session
+49. mount - Mount a file system.
+50. umount - Unmount a file system.
+These commands form the basis of interacting with a Linux system and performing various administrative tasks.
+Goodluck....!
